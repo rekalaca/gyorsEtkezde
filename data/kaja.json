@@ -1,1 +1,42 @@
-[{"valaszt":"Hamburger","neve":"Magyaros","ar":"1250"},{"valaszt":"Hamburger","neve":"Mexikói","ar":"1450"},{"valaszt":"Pizza","neve":"Margarita","ar":"1100"},{"valaszt":"Hamburger","neve":"Pokol tüze","ar":"1550"},{"valaszt":"Pizza","neve":"Piedone","ar":"1870"},{"valaszt":"Hamburger","neve":"Dupla","ar":"1850"},{"valaszt":"Pizza","neve":"Hawaii","ar":"2100"}]
+[
+    {
+        "valaszt": "Hamburger",
+        "neve": "Magyaros",
+        "ar": "1250"
+    },
+    {
+        "valaszt": "Hamburger",
+        "neve": "Mexikói",
+        "ar": "1450"
+    },
+    {
+        "valaszt": "Pizza",
+        "neve": "Margarita",
+        "ar": "1100"
+    },
+    {
+        "valaszt": "Hamburger",
+        "neve": "Pokol tüze",
+        "ar": "1550"
+    },
+    {
+        "valaszt": "Pizza",
+        "neve": "Piedone",
+        "ar": "1870"
+    },
+    {
+        "valaszt": "Hamburger",
+        "neve": "Dupla",
+        "ar": "1850"
+    },
+    {
+        "valaszt": "Pizza",
+        "neve": "Hawaii",
+        "ar": "2100"
+    },
+    {
+        "valaszt": "Pizza",
+        "neve": "Soksajtos",
+        "ar": "3200"
+    }
+]
